@@ -1,0 +1,5 @@
+﻿  Distance.cpp
+C:\Users\HP\OneDrive\Desktop\New folder\Lab07-01\Distance.cpp(38,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab07-01.cpp
+  Generating Code...
+  Lab07-01.vcxproj -> C:\Users\HP\OneDrive\Desktop\New folder\Lab07-01\x64\Debug\Lab07-01.exe

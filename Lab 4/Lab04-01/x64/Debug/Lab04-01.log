@@ -1,0 +1,3 @@
+﻿  Lab04-01.cpp
+C:\Users\HP\OneDrive\Desktop\New folder\Lab04-01\Lab04-01.cpp(75,30): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Lab04-01.vcxproj -> C:\Users\HP\OneDrive\Desktop\New folder\Lab04-01\x64\Debug\Lab04-01.exe

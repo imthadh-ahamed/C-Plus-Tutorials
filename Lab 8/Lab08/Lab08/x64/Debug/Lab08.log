@@ -1,0 +1,20 @@
+﻿  Lab08.cpp
+C:\Users\it22077288\Desktop\Lab08\Lab08\Lab08.cpp(12,19): error C2665: 'SalesPerson::SalesPerson': no overloaded function could convert all the argument types
+C:\Users\it22077288\Desktop\Lab08\Lab08\SalesPerson.h(11,2): message : could be 'SalesPerson::SalesPerson(int,char [])'
+C:\Users\it22077288\Desktop\Lab08\Lab08\Lab08.cpp(12,19): message : 'SalesPerson::SalesPerson(int,char [])': cannot convert argument 2 from 'const char [6]' to 'char []'
+C:\Users\it22077288\Desktop\Lab08\Lab08\Lab08.cpp(12,26): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\it22077288\Desktop\Lab08\Lab08\Lab08.cpp(12,19): message : while trying to match the argument list '(int, const char [6])'
+C:\Users\it22077288\Desktop\Lab08\Lab08\Lab08.cpp(14,15): error C2665: 'Item::Item': no overloaded function could convert all the argument types
+C:\Users\it22077288\Desktop\Lab08\Lab08\Item.h(9,2): message : could be 'Item::Item(int,char [])'
+C:\Users\it22077288\Desktop\Lab08\Lab08\Lab08.cpp(14,15): message : 'Item::Item(int,char [])': cannot convert argument 2 from 'const char [8]' to 'char []'
+C:\Users\it22077288\Desktop\Lab08\Lab08\Lab08.cpp(14,22): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\it22077288\Desktop\Lab08\Lab08\Lab08.cpp(14,15): message : while trying to match the argument list '(int, const char [8])'
+C:\Users\it22077288\Desktop\Lab08\Lab08\Lab08.cpp(15,10): error C2374: 'item1': redefinition; multiple initialization
+C:\Users\it22077288\Desktop\Lab08\Lab08\Lab08.cpp(14,10): message : see declaration of 'item1'
+C:\Users\it22077288\Desktop\Lab08\Lab08\Lab08.cpp(20,25): error C2065: 'item2': undeclared identifier
+  SalesPerson.cpp
+C:\Users\it22077288\Desktop\Lab08\Lab08\SalesPerson.cpp(20,13): error C2039: 'calcTotal': is not a member of 'Item'
+C:\Users\it22077288\Desktop\Lab08\Lab08\Item.h(2,7): message : see declaration of 'Item'
+C:\Users\it22077288\Desktop\Lab08\Lab08\SalesPerson.cpp(20,34): error C2039: 'calcTotal': is not a member of 'Item'
+C:\Users\it22077288\Desktop\Lab08\Lab08\Item.h(2,7): message : see declaration of 'Item'
+  Generating Code...

@@ -1,0 +1,5 @@
+﻿  Lab05-01.cpp
+  ShapeArea.cpp
+C:\Users\HP\OneDrive\Desktop\New folder\Lab05-01\ShapeArea.cpp(4,30): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Lab05-01.vcxproj -> C:\Users\HP\OneDrive\Desktop\New folder\Lab05-01\x64\Debug\Lab05-01.exe
